@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Outfit:wght@400;700&display=swap");
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  margin: 0px auto;
+}
+
+div {
+  background-color: white;
+  border-radius: 10px;
+  width: 170px;
+  margin: 70px auto;
+}
+
+img {
+  width: 150px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#id_par_1 {
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 0 15px;
+}
+
+#id_par_2 {
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 400;
+  font-size: 8px;
+  color: #555;
+  padding: 0px 15px 20px 15px;
+
+}
